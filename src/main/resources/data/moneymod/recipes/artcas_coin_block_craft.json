@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "1": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "2": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "3": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "4": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "5": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "6": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "7": {
+      "item": "moneymod:super_artcas_coin"
+    },
+    "8": {
+      "item": "moneymod:super_artcas_coin"
+    }
+  },
+  "result": {
+    "item": "moneymod:artcas_coin_block",
+    "count": 1
+  }
+}

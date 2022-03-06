@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moneymod:blocks/distributeur-cote",
+    "up": "moneymod:blocks/distributeur-haut",
+    "north": "moneymod:blocks/distributeur-face",
+    "east": "moneymod:blocks/distributeur-cote",
+    "south": "moneymod:blocks/distributeur-cote",
+    "west": "moneymod:blocks/distributeur-cote",
+    "particle": "moneymod:blocks/distributeur-cote"
+  }
+}

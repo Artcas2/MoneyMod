@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "moneymod:block/cash_dispenser"
+    }
+  }
+}

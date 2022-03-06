@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "moneymod:blocks/artcascoin",
+    "up": "moneymod:blocks/superartcascoin",
+    "north": "moneymod:blocks/superartcascoin",
+    "east": "moneymod:blocks/artcascoin",
+    "south": "moneymod:blocks/superartcascoin",
+    "west": "moneymod:blocks/artcascoin",
+    "particle": "moneymod:blocks/artcascoin"
+  }
+}

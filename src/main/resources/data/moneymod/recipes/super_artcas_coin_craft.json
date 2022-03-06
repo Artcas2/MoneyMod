@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "moneymod:artcas_coin"
+    },
+    {
+      "item": "moneymod:artcas_coin"
+    },
+    {
+      "item": "moneymod:artcas_coin"
+    },
+    {
+      "item": "moneymod:artcas_coin"
+    }
+  ],
+  "result": {
+    "item": "moneymod:super_artcas_coin",
+    "count": 1
+  }
+}

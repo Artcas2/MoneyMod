@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "moneymod:block/artcas_coin_block"
+    }
+  }
+}
