@@ -17,7 +17,7 @@ Téléchargez le mod ici : https://github.com/Artcas2/MoneyMod/releases/tag/v1.0
 
 En dessous de "Assets", cliquez sur "moneymod-1.0.0_1.17.1.jar". Téléchargez le fichier "moneymod-1.0.0_1.17.1.jar".
 
-Ouvrez le dossier où le mod à été installé. Tapez le raccoucis Windows + R, entrez %appdata%\.minecraft\mods et cliquez sur "OK".
+Ouvrez le dossier où le mod à été installé. Tapez le raccoucis Windows + R, entrez `%appdata%\.minecraft\mods` et cliquez sur "OK".
 
 ![image](https://user-images.githubusercontent.com/63158439/157288193-b44bbc4b-4d58-4b3b-a33d-3be8d7d5723f.png)
 
